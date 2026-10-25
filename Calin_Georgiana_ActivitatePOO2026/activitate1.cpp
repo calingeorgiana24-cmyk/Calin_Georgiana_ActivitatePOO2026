@@ -55,7 +55,7 @@ void main() {
 
 	cout << endl;
 
-	float* preturi = new float[] {25, 55, 80.5};
+	float* preturi = new float[3] {25, 55, 80.5};
 	Librarie* Libris = new Librarie(3, "Libris", 3, preturi);
 	Libris->afisare();
 
