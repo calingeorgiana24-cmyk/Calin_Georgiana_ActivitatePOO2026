@@ -27,5 +27,8 @@
     <ClCompile Include="pompier.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="cafenea.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
