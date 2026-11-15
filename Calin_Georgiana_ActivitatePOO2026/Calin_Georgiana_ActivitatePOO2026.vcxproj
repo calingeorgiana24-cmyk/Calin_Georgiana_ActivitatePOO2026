@@ -132,6 +132,7 @@
     <ClCompile Include="bicicleta.cpp" />
     <ClCompile Include="cafenea.cpp" />
     <ClCompile Include="pompier.cpp" />
+    <ClCompile Include="rochie.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
