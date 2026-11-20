@@ -132,6 +132,7 @@
     <ClCompile Include="bicicleta.cpp" />
     <ClCompile Include="brutarie.cpp" />
     <ClCompile Include="cafenea.cpp" />
+    <ClCompile Include="librarie.cpp" />
     <ClCompile Include="magazin.cpp" />
     <ClCompile Include="pompier.cpp" />
     <ClCompile Include="rochie.cpp" />

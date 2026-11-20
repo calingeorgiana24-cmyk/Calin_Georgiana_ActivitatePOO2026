@@ -39,5 +39,8 @@
     <ClCompile Include="magazin.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="librarie.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
